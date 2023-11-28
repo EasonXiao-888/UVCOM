@@ -6,5 +6,5 @@
 
 ## 🎤🎤🎤 Todo
 
-- [ ] Release the paper
-- [ ] Release the code, config and checkpoints for teaser
+- [ ] Release the code.
+- [ ] Release the config and checkpoints.
