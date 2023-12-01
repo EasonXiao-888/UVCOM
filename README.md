@@ -1,5 +1,7 @@
 # Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection
-[Yicheng Xiao*](https://easonxiao-888.github.io/), [Zhuoyan Luo*](https://robertluo1.github.io/), [Yong Liu](https://workforai.github.io/), Yue Ma, Hengwei Bian, Yatai Ji, Yujiu Yang, Xiu Li
+[Yicheng Xiao<sup>1</sup>*](https://easonxiao-888.github.io/), [Zhuoyan Luo<sup>1</sup>*](https://robertluo1.github.io/), [Yong Liu<sup>1</sup>](https://workforai.github.io/), Yue Ma<sup>1</sup>, [Hengwei Bian<sup>2</sup>](https://github.com/bian-hengwei), Yatai Ji<sup>1</sup>, Yujiu Yang<sup>1</sup>, Xiu Li<sup>1</sup>
+
+<sup>1</sup> Tsinghua University, <sup>2</sup> Carnegie Mellon University
 
 <a href='https://arxiv.org/pdf/2311.16464.pdf'><img src='https://img.shields.io/badge/ArXiv-2311.16464-red'></a> 
 
