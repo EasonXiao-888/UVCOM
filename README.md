@@ -5,6 +5,9 @@
 
 <a href='https://arxiv.org/pdf/2311.16464.pdf'><img src='https://img.shields.io/badge/ArXiv-2311.16464-red'></a> 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-a-unified-video/highlight-detection-on-youtube-highlights)](https://paperswithcode.com/sota/highlight-detection-on-youtube-highlights?p=bridging-the-gap-a-unified-video) <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-gap-a-unified-video/natural-language-moment-retrieval-on-tacos)](https://paperswithcode.com/sota/natural-language-moment-retrieval-on-tacos?p=bridging-the-gap-a-unified-video)
+
 [THUSIGSCLUB](https://thusigsclub.github.io/thu.github.io/index.html)
 
 
