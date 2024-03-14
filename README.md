@@ -104,6 +104,9 @@ If you find this work useful for your research, please cite:
 }
 ```
 
+## ☑️ LICENSE
+Our codes are under [MIT](https://opensource.org/license/MIT) license.
+
 ## 🎤🎤🎤 Todo
 
 - [ &#10004; ] Release the code.
