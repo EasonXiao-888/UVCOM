@@ -77,9 +77,7 @@ Tips: If you want to reproduce 100%, it is necessary to follow the version I pro
     `bash scripts/eval_QV_scratch.sh`
     
     You need to modify the `resume` ckpt path to your own.
-    
 
-Tips: we will update our code version for other datasets and other settings (audio and pretrain) as soon as possible. 
 
 ## ❤️ Acknowledgement
 Code in this repository is built upon several public repositories. Thanks for the wonderful work [Moment-DETR](https://github.com/jayleicn/moment_detr) and [QD-DETR](https://github.com/wjun0830/QD-DETR) ! !
@@ -110,4 +108,4 @@ Our codes are under [MIT](https://opensource.org/license/MIT) license.
 ## 🎤🎤🎤 Todo
 
 - [ &#10004; ] Release the code.
-- [ &cross; ] Release the config and checkpoints.
+- [ &#10004; ] Release the config and checkpoints.
