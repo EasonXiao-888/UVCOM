@@ -62,7 +62,7 @@ Tips: If you want to reproduce 100%, it is necessary to follow the version I pro
 ### Charades-STA
 | Extra <br>Training <br>Data  | Use <br>Audio | Set Split | MR <br> R1@0.5 | MR <br> R1@0.7 | Log/ckpt |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| &cross; | &cross; | Test | 59.25 | 36.64 | [log](#)/[ckpt](#) |
+| &cross; | &cross; | Test | 59.25 | 36.64 | [log](#)/[ckpt](https://drive.google.com/file/d/1yZVt_BDGhfkx_es2mDC5UIHOu70uAFZi/view?usp=drive_link) |
 
 ## 🚀 Train & Evaluate
 ### Train from scratch
